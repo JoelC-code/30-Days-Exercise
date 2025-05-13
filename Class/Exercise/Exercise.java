@@ -1,4 +1,4 @@
-package Exercise;
+package Class.Exercise.Exercise;
 
 public class Exercise {
     private int ID, calorieTotal, rep, set;
