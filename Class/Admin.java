@@ -1,4 +1,4 @@
-packafe Class.Admin;
+package Class.Admin;
 
 public class Admin extends Account{
     public Admin(String username, String password){
