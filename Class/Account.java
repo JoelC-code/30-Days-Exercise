@@ -1,5 +1,3 @@
-package Account;
-
 
 public class Account {
     private String username, password;
