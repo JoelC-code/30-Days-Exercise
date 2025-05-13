@@ -1,4 +1,4 @@
-
+package Class.Account;
 
 public class Account {
     private String username, password;
